@@ -1,0 +1,17 @@
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\bin\Debug\netstandard2.0\DependencyService.deps.json
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\bin\Debug\netstandard2.0\DependencyService.dll
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\bin\Debug\netstandard2.0\DependencyService.pdb
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\DependencyService.csproj.AssemblyReference.cache
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\DependencyService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\BatteryDemo.xaml.g.cs
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\TextToSpeechDemo.xaml.g.cs
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\DependencyService.AssemblyInfoInputs.cache
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\DependencyService.AssemblyInfo.cs
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\DependencyService.csproj.CoreCompileInputs.cache
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\DependencyService.dll
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\refint\DependencyService.dll
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\DependencyService.pdb
+D:\Users\diegu\Source\Repos\DependencyService\DependencyService\DependencyService\obj\Debug\netstandard2.0\ref\DependencyService.dll
