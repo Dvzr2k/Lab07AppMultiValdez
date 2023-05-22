@@ -10,7 +10,7 @@ namespace DependencyService
         {
             InitializeComponent();
 
-            MainPage = new BatteryDemo();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
